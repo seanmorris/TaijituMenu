@@ -1,0 +1,6 @@
+body{
+	background:url('/img/agsquare.png');
+}
+div.jumbotron canvas{
+	border:1px #777 solid;
+}
